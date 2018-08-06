@@ -4,17 +4,6 @@
 LOCAL_PATH := $(call my-dir)
 
 #######################################
-# ld.config.txt
-include $(CLEAR_VARS)
-LOCAL_MODULE := ld.config.28.txt
-LOCAL_SRC_FILES := ../$(TARGET_ARCH)/configs/ld.config.28.txt
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT_ETC)
-LOCAL_MODULE_STEM := $(LOCAL_MODULE)
-include $(BUILD_PREBUILT)
-
-
-#######################################
 # llndk.libraries.txt
 include $(CLEAR_VARS)
 LOCAL_MODULE := llndk.libraries.28.txt
