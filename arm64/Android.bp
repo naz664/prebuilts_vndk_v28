@@ -2175,7 +2175,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libaudioroute-notice",
+    notice: ":vndk-v28-libaudioroute.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libaudioroute.so"],
@@ -2248,7 +2248,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libcap-notice",
+    notice: ":vndk-v28-libcap.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libcap.so"],
@@ -2285,7 +2285,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libcrypto-notice",
+    notice: ":vndk-v28-libcrypto.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libcrypto.so"],
@@ -2322,7 +2322,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libcurl-notice",
+    notice: ":vndk-v28-libcurl.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libcurl.so"],
@@ -2377,7 +2377,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libevent-notice",
+    notice: ":vndk-v28-libevent.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libevent.so"],
@@ -2396,7 +2396,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libexif-notice",
+    notice: ":vndk-v28-libexif.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libexif.so"],
@@ -2487,7 +2487,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libhardware_legacy-notice",
+    notice: ":vndk-v28-libhardware_legacy.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libhardware_legacy.so"],
@@ -2542,7 +2542,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libjpeg-notice",
+    notice: ":vndk-v28-libjpeg.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libjpeg.so"],
@@ -2561,7 +2561,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libkeymaster_messages-notice",
+    notice: ":vndk-v28-libkeymaster_messages.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libkeymaster_messages.so"],
@@ -2580,7 +2580,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libkeymaster_portable-notice",
+    notice: ":vndk-v28-libkeymaster_portable.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libkeymaster_portable.so"],
@@ -2599,7 +2599,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libldacBT_abr-notice",
+    notice: ":vndk-v28-libldacBT_abr.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libldacBT_abr.so"],
@@ -2618,7 +2618,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libldacBT_enc-notice",
+    notice: ":vndk-v28-libldacBT_enc.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libldacBT_enc.so"],
@@ -2637,7 +2637,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-liblz4-notice",
+    notice: ":vndk-v28-liblz4.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/liblz4.so"],
@@ -2656,7 +2656,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libmedia_helper-notice",
+    notice: ":vndk-v28-libmedia_helper.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libmedia_helper.so"],
@@ -2675,7 +2675,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libmedia_omx-notice",
+    notice: ":vndk-v28-libmedia_omx.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libmedia_omx.so"],
@@ -2712,7 +2712,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libminijail-notice",
+    notice: ":vndk-v28-libminijail.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libminijail.so"],
@@ -2749,7 +2749,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libnetutils-notice",
+    notice: ":vndk-v28-libnetutils.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libnetutils.so"],
@@ -2768,7 +2768,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libnl-notice",
+    notice: ":vndk-v28-libnl.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libnl.so"],
@@ -2787,7 +2787,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libopus-notice",
+    notice: ":vndk-v28-libopus.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libopus.so"],
@@ -2806,7 +2806,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libpagemap-notice",
+    notice: ":vndk-v28-libpagemap.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libpagemap.so"],
@@ -2825,7 +2825,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libpcre2-notice",
+    notice: ":vndk-v28-libpcre2.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libpcre2.so"],
@@ -2844,7 +2844,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libpiex-notice",
+    notice: ":vndk-v28-libpiex.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libpiex.so"],
@@ -2881,7 +2881,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libpower-notice",
+    notice: ":vndk-v28-libpower.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libpower.so"],
@@ -2918,7 +2918,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libprotobuf-cpp-full-notice",
+    notice: ":vndk-v28-libprotobuf-cpp-full.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libprotobuf-cpp-full.so"],
@@ -2937,7 +2937,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libprotobuf-cpp-lite-notice",
+    notice: ":vndk-v28-libprotobuf-cpp-lite.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libprotobuf-cpp-lite.so"],
@@ -2956,7 +2956,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libpuresoftkeymasterdevice-notice",
+    notice: ":vndk-v28-libpuresoftkeymasterdevice.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libpuresoftkeymasterdevice.so"],
@@ -3011,7 +3011,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libsoftkeymasterdevice-notice",
+    notice: ":vndk-v28-libsoftkeymasterdevice.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libsoftkeymasterdevice.so"],
@@ -3030,7 +3030,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libspeexresampler-notice",
+    notice: ":vndk-v28-libspeexresampler.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libspeexresampler.so"],
@@ -3049,7 +3049,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libsqlite-notice",
+    notice: ":vndk-v28-libsqlite.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libsqlite.so"],
@@ -3068,7 +3068,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libssl-notice",
+    notice: ":vndk-v28-libssl.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libssl.so"],
@@ -3087,7 +3087,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_amrnb_common-notice",
+    notice: ":vndk-v28-libstagefright_amrnb_common.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_amrnb_common.so"],
@@ -3124,7 +3124,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_enc_common-notice",
+    notice: ":vndk-v28-libstagefright_enc_common.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_enc_common.so"],
@@ -3143,7 +3143,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_flacdec-notice",
+    notice: ":vndk-v28-libstagefright_flacdec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_flacdec.so"],
@@ -3162,7 +3162,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_foundation-notice",
+    notice: ":vndk-v28-libstagefright_foundation.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_foundation.so"],
@@ -3181,7 +3181,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_omx-notice",
+    notice: ":vndk-v28-libstagefright_omx.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_omx.so"],
@@ -3200,7 +3200,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_omx_utils-notice",
+    notice: ":vndk-v28-libstagefright_omx_utils.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_omx_utils.so"],
@@ -3219,7 +3219,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_aacdec-notice",
+    notice: ":vndk-v28-libstagefright_soft_aacdec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_aacdec.so"],
@@ -3235,7 +3235,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_aacenc-notice",
+    notice: ":vndk-v28-libstagefright_soft_aacenc.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_aacenc.so"],
@@ -3251,7 +3251,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_amrdec-notice",
+    notice: ":vndk-v28-libstagefright_soft_amrdec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_amrdec.so"],
@@ -3267,7 +3267,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_amrnbenc-notice",
+    notice: ":vndk-v28-libstagefright_soft_amrnbenc.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_amrnbenc.so"],
@@ -3283,7 +3283,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_amrwbenc-notice",
+    notice: ":vndk-v28-libstagefright_soft_amrwbenc.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_amrwbenc.so"],
@@ -3329,7 +3329,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_flacdec-notice",
+    notice: ":vndk-v28-libstagefright_soft_flacdec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_flacdec.so"],
@@ -3345,7 +3345,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_flacenc-notice",
+    notice: ":vndk-v28-libstagefright_soft_flacenc.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_flacenc.so"],
@@ -3361,7 +3361,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_g711dec-notice",
+    notice: ":vndk-v28-libstagefright_soft_g711dec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_g711dec.so"],
@@ -3377,7 +3377,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_gsmdec-notice",
+    notice: ":vndk-v28-libstagefright_soft_gsmdec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_gsmdec.so"],
@@ -3408,7 +3408,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_mp3dec-notice",
+    notice: ":vndk-v28-libstagefright_soft_mp3dec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_mp3dec.so"],
@@ -3439,7 +3439,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_mpeg4dec-notice",
+    notice: ":vndk-v28-libstagefright_soft_mpeg4dec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_mpeg4dec.so"],
@@ -3455,7 +3455,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_mpeg4enc-notice",
+    notice: ":vndk-v28-libstagefright_soft_mpeg4enc.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_mpeg4enc.so"],
@@ -3486,7 +3486,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_rawdec-notice",
+    notice: ":vndk-v28-libstagefright_soft_rawdec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_rawdec.so"],
@@ -3502,7 +3502,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_vorbisdec-notice",
+    notice: ":vndk-v28-libstagefright_soft_vorbisdec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_vorbisdec.so"],
@@ -3518,7 +3518,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_vpxdec-notice",
+    notice: ":vndk-v28-libstagefright_soft_vpxdec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_vpxdec.so"],
@@ -3534,7 +3534,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libstagefright_soft_vpxenc-notice",
+    notice: ":vndk-v28-libstagefright_soft_vpxenc.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libstagefright_soft_vpxenc.so"],
@@ -3604,7 +3604,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libtinyalsa-notice",
+    notice: ":vndk-v28-libtinyalsa.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libtinyalsa.so"],
@@ -3623,7 +3623,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libtinyxml2-notice",
+    notice: ":vndk-v28-libtinyxml2.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libtinyxml2.so"],
@@ -3642,7 +3642,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libui-notice",
+    notice: ":vndk-v28-libui.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libui.so"],
@@ -3715,7 +3715,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libvorbisidec-notice",
+    notice: ":vndk-v28-libvorbisidec.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libvorbisidec.so"],
@@ -3752,7 +3752,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v28-libxml2-notice",
+    notice: ":vndk-v28-libxml2.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-core/libxml2.so"],
@@ -4105,7 +4105,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libblas-notice",
+    notice: ":vndk-v28-libblas.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libblas.so"],
@@ -4125,7 +4125,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libc++-notice",
+    notice: ":vndk-v28-libc++.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libc++.so"],
@@ -4145,7 +4145,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libcompiler_rt-notice",
+    notice: ":vndk-v28-libcompiler_rt.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libcompiler_rt.so"],
@@ -4165,7 +4165,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libcutils-notice",
+    notice: ":vndk-v28-libcutils.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libcutils.so"],
@@ -4185,7 +4185,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libhardware-notice",
+    notice: ":vndk-v28-libhardware.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libhardware.so"],
@@ -4262,7 +4262,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libhwbinder-notice",
+    notice: ":vndk-v28-libhwbinder.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libhwbinder.so"],
@@ -4282,7 +4282,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libhwbinder_noltopgo-notice",
+    notice: ":vndk-v28-libhwbinder_noltopgo.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libhwbinder_noltopgo.so"],
@@ -4340,7 +4340,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libunwind-notice",
+    notice: ":vndk-v28-libunwind.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libunwind.so"],
@@ -4379,7 +4379,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libutils-notice",
+    notice: ":vndk-v28-libutils.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libutils.so"],
@@ -4399,7 +4399,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libutilscallstack-notice",
+    notice: ":vndk-v28-libutilscallstack.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libutilscallstack.so"],
@@ -4419,7 +4419,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v28-libz-notice",
+    notice: ":vndk-v28-libz.so-notice",
     arch: {
         arm: {
             srcs: ["arch-arm-armv8-a/shared/vndk-sp/libz.so"],
