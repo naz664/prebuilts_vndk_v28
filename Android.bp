@@ -37,3 +37,70 @@ prebuilt_etc {
     },
 }
 
+// Some vendor prebuilts reference libprotobuf-cpp-lite.so and
+// libprotobuf-cpp-full.so and expect the 3.0.0-beta3 version.
+// The new version of protobuf will be installed as
+// /vendor/lib64/libprotobuf-cpp-lite-3.9.1.so.  The VNDK doesn't
+// help here because we compile old devices against master and not
+// an old VNDK snapshot.  We need to continue to provide a vendor
+// libprotobuf-cpp-lite.so until all products in master get updated
+// prebuilts or are obsoleted.
+
+// TODO(ccross): should these modules get moved somewhere else?
+cc_prebuilt_library_shared {
+    name: "libprotobuf-cpp-lite-vendorcompat",
+    stem: "libprotobuf-cpp-lite",
+    vendor: true,
+    target: {
+        android_arm64: {
+            srcs: ["arm64/arch-arm64-armv8-a/shared/vndk-core/libprotobuf-cpp-lite.so"],
+        },
+        android_arm: {
+            srcs: ["arm/arch-arm-armv7-a-neon/shared/vndk-core/libprotobuf-cpp-lite.so"],
+        },
+        android_x86_64: {
+            srcs: ["x86_64/arch-x86_64-x86_64/shared/vndk-core/libprotobuf-cpp-lite.so"],
+        },
+        android_x86: {
+            srcs: ["x86/arch-x86-x86/shared/vndk-core/libprotobuf-cpp-lite.so"],
+        },
+    },
+
+    shared_libs: [
+        "libc++",
+        "libc",
+        "libdl",
+        "liblog",
+        "libm",
+        "libz",
+    ],
+}
+
+cc_prebuilt_library_shared {
+    name: "libprotobuf-cpp-full-vendorcompat",
+    stem: "libprotobuf-cpp-full",
+    vendor: true,
+    target: {
+        android_arm64: {
+            srcs: ["arm64/arch-arm64-armv8-a/shared/vndk-core/libprotobuf-cpp-full.so"],
+        },
+        android_arm: {
+            srcs: ["arm/arch-arm-armv7-a-neon/shared/vndk-core/libprotobuf-cpp-full.so"],
+        },
+        android_x86_64: {
+            srcs: ["x86_64/arch-x86_64-x86_64/shared/vndk-core/libprotobuf-cpp-full.so"],
+        },
+        android_x86: {
+            srcs: ["x86/arch-x86-x86/shared/vndk-core/libprotobuf-cpp-full.so"],
+        },
+    },
+
+    shared_libs: [
+        "libc++",
+        "libc",
+        "libdl",
+        "liblog",
+        "libm",
+        "libz",
+    ],
+}
