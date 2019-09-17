@@ -51,6 +51,10 @@ cc_prebuilt_library_shared {
     name: "libprotobuf-cpp-lite-vendorcompat",
     stem: "libprotobuf-cpp-lite",
     vendor: true,
+    // These are already stripped, and restripping them just issues diagnostics.
+    strip: {
+        none: true,
+    },
     target: {
         android_arm64: {
             srcs: ["arm64/arch-arm64-armv8-a/shared/vndk-core/libprotobuf-cpp-lite.so"],
@@ -80,6 +84,10 @@ cc_prebuilt_library_shared {
     name: "libprotobuf-cpp-full-vendorcompat",
     stem: "libprotobuf-cpp-full",
     vendor: true,
+    // These are already stripped, and restripping them just issues diagnostics.
+    strip: {
+        none: true,
+    },
     target: {
         android_arm64: {
             srcs: ["arm64/arch-arm64-armv8-a/shared/vndk-core/libprotobuf-cpp-full.so"],
