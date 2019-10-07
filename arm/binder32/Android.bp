@@ -237,6 +237,8 @@ phony {
         "ld.config.28.txt",
         "llndk.libraries.28.txt",
         "vndksp.libraries.28.txt",
+        "vndkcore.libraries.28.txt",
+        "vndkprivate.libraries.28.txt",
     ],
 }
 
@@ -3610,9 +3612,9 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    relative_install_path: "hw",
     arch: {
         arm: {
+            relative_install_path: "hw",
             srcs: ["arch-arm-armv7-a-neon/shared/vndk-sp/android.hidl.memory@1.0-impl.so"],
         },
     },
