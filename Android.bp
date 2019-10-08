@@ -4,17 +4,17 @@
 prebuilt_etc {
     name: "llndk.libraries.28.txt",
     target: {
-        android_arm64: {
-            src: "arm64/configs/llndk.libraries.28.txt",
-        },
         android_arm: {
             src: "arm/configs/llndk.libraries.28.txt",
         },
-        android_x86_64: {
-            src: "x86_64/configs/llndk.libraries.28.txt",
+        android_arm64: {
+            src: "arm64/configs/llndk.libraries.28.txt",
         },
         android_x86: {
             src: "x86/configs/llndk.libraries.28.txt",
+        },
+        android_x86_64: {
+            src: "x86_64/configs/llndk.libraries.28.txt",
         },
     },
 }
@@ -22,17 +22,53 @@ prebuilt_etc {
 prebuilt_etc {
     name: "vndksp.libraries.28.txt",
     target: {
+        android_arm: {
+            src: "arm/configs/vndksp.libraries.28.txt",
+        },
         android_arm64: {
             src: "arm64/configs/vndksp.libraries.28.txt",
         },
-        android_arm: {
-            src: "arm/configs/vndksp.libraries.28.txt",
+        android_x86: {
+            src: "x86/configs/vndksp.libraries.28.txt",
         },
         android_x86_64: {
             src: "x86_64/configs/vndksp.libraries.28.txt",
         },
+    },
+}
+
+prebuilt_etc {
+    name: "vndkcore.libraries.28.txt",
+    target: {
+        android_arm: {
+            src: "arm/configs/vndkcore.libraries.28.txt",
+        },
+        android_arm64: {
+            src: "arm64/configs/vndkcore.libraries.28.txt",
+        },
         android_x86: {
-            src: "x86/configs/vndksp.libraries.28.txt",
+            src: "x86/configs/vndkcore.libraries.28.txt",
+        },
+        android_x86_64: {
+            src: "x86_64/configs/vndkcore.libraries.28.txt",
+        },
+    },
+}
+
+prebuilt_etc {
+    name: "vndkprivate.libraries.28.txt",
+    target: {
+        android_arm: {
+            src: "arm/configs/vndkprivate.libraries.28.txt",
+        },
+        android_arm64: {
+            src: "arm64/configs/vndkprivate.libraries.28.txt",
+        },
+        android_x86: {
+            src: "x86/configs/vndkprivate.libraries.28.txt",
+        },
+        android_x86_64: {
+            src: "x86_64/configs/vndkprivate.libraries.28.txt",
         },
     },
 }
@@ -46,7 +82,7 @@ prebuilt_etc {
 // libprotobuf-cpp-lite.so until all products in master get updated
 // prebuilts or are obsoleted.
 
-// TODO(ccross): should these modules get moved somewhere else?
+// TODO(b/142220143): should these modules get moved somewhere else?
 cc_prebuilt_library_shared {
     name: "libprotobuf-cpp-lite-vendorcompat",
     stem: "libprotobuf-cpp-lite",
