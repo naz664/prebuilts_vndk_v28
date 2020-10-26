@@ -209,7 +209,7 @@ libRSCpuRef.so frameworks/rs/cpu_ref
 libRSDriver.so frameworks/rs
 libRS_internal.so frameworks/rs
 libbacktrace.so system/core/libbacktrace system/core/libbacktrace
-libbase.so system/core/base system/core/base
+libbase.so system/libbase system/libbase
 libbcinfo.so frameworks/compile/libbcc/bcinfo
 libblas.so external/cblas
 libc++.so external/libcxx
