@@ -208,8 +208,8 @@ android.hidl.memory@1.0-impl.so system/libhidl/transport/memory/1.0/default
 libRSCpuRef.so frameworks/rs/cpu_ref
 libRSDriver.so frameworks/rs
 libRS_internal.so frameworks/rs
-libbacktrace.so system/unwinding/libbacktrace system/unwinding/libbacktrace
-libbase.so system/libbase system/libbase
+libbacktrace.so system/core/libbacktrace system/core/libbacktrace
+libbase.so system/core/base system/core/base
 libbcinfo.so frameworks/compile/libbcc/bcinfo
 libblas.so external/cblas
 libc++.so external/libcxx
@@ -224,7 +224,7 @@ libhwbinder_noltopgo.so system/libhwbinder system/libhwbinder
 libion.so system/core/libion system/core/libion
 liblzma.so external/lzma/C external/lzma/C
 libunwind.so external/libunwind external/libunwind
-libunwindstack.so system/unwinding/libunwindstack system/unwinding/libunwindstack
+libunwindstack.so system/core/libunwindstack system/core/libunwindstack
 libutils.so system/core/libutils system/core/libutils
 libutilscallstack.so system/core/libutils system/core/libutils
 libz.so external/zlib external/zlib
