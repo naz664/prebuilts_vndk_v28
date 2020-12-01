@@ -7,6 +7,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -23,6 +24,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -39,6 +41,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -55,6 +58,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -71,6 +75,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -87,6 +92,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -103,6 +109,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -119,6 +126,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -135,6 +143,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -151,6 +160,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -167,6 +177,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -183,6 +194,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -199,6 +211,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -215,6 +228,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -231,6 +245,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -247,6 +262,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -263,6 +279,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -279,6 +296,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -295,6 +313,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -311,6 +330,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -327,6 +347,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -343,6 +364,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -359,6 +381,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -375,6 +398,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -391,6 +415,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -407,6 +432,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -423,6 +449,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -439,6 +466,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -455,6 +483,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -471,6 +500,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -487,6 +517,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -503,6 +534,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -519,6 +551,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -535,6 +568,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -551,6 +585,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -567,6 +602,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -583,6 +619,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -599,6 +636,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -615,6 +653,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -631,6 +670,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -647,6 +687,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -663,6 +704,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -679,6 +721,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -695,6 +738,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -711,6 +755,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -727,6 +772,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -743,6 +789,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -759,6 +806,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -775,6 +823,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -791,6 +840,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -807,6 +857,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -823,6 +874,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -839,6 +891,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -855,6 +908,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -871,6 +925,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -887,6 +942,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -903,6 +959,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -919,6 +976,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -935,6 +993,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -951,6 +1010,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -967,6 +1027,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -983,6 +1044,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -999,6 +1061,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1015,6 +1078,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1031,6 +1095,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1047,6 +1112,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1063,6 +1129,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1079,6 +1146,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1095,6 +1163,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1111,6 +1180,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1127,6 +1197,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1143,6 +1214,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1159,6 +1231,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1175,6 +1248,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1191,6 +1265,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1207,6 +1282,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1223,6 +1299,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1239,6 +1316,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1255,6 +1333,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1271,6 +1350,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1287,6 +1367,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1303,6 +1384,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1319,6 +1401,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1335,6 +1418,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1351,6 +1435,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1367,6 +1452,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1383,6 +1469,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1399,6 +1486,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1415,6 +1503,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1431,6 +1520,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1447,6 +1537,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1463,6 +1554,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1479,6 +1571,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1495,6 +1588,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1511,6 +1605,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1527,6 +1622,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1543,6 +1639,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1559,6 +1656,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1575,6 +1673,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1591,6 +1690,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1607,6 +1707,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1623,6 +1724,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1639,6 +1741,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1655,6 +1758,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1671,6 +1775,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1687,6 +1792,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1703,6 +1809,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1719,6 +1826,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1736,6 +1844,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1752,6 +1861,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1768,6 +1878,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1784,6 +1895,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1801,6 +1913,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1817,6 +1930,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1834,6 +1948,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1850,6 +1965,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1867,6 +1983,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1883,6 +2000,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1899,6 +2017,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1916,6 +2035,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1933,6 +2053,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1949,6 +2070,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1965,6 +2087,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -1981,6 +2104,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: false,
+    product_available: false,
     vndk: {
         enabled: true,
     },
@@ -1997,6 +2121,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2014,6 +2139,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2030,6 +2156,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2046,6 +2173,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2063,6 +2191,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2080,6 +2209,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2097,6 +2227,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2114,6 +2245,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2131,6 +2263,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2148,6 +2281,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2165,6 +2299,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2182,6 +2317,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2198,6 +2334,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2215,6 +2352,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2231,6 +2369,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2248,6 +2387,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2265,6 +2405,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2282,6 +2423,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2299,6 +2441,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2316,6 +2459,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2333,6 +2477,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2349,6 +2494,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2366,6 +2512,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2382,6 +2529,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2399,6 +2547,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2416,6 +2565,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2433,6 +2583,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2449,6 +2600,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2465,6 +2617,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2482,6 +2635,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2499,6 +2653,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2516,6 +2671,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2533,6 +2689,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2550,6 +2707,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2566,6 +2724,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2583,6 +2742,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2600,6 +2760,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2617,6 +2778,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2634,6 +2796,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2651,6 +2814,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2668,6 +2832,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2685,6 +2850,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2702,6 +2868,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2719,6 +2886,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2736,6 +2904,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2752,6 +2921,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2768,6 +2938,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2785,6 +2956,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2802,6 +2974,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2819,6 +2992,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2836,6 +3010,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2852,6 +3027,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2869,6 +3045,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2885,6 +3062,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2902,6 +3080,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2919,6 +3098,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2935,6 +3115,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2952,6 +3133,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2969,6 +3151,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -2986,6 +3169,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3003,6 +3187,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3019,6 +3204,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3035,6 +3221,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3051,6 +3238,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3068,6 +3256,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3085,6 +3274,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3102,6 +3292,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3118,6 +3309,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3134,6 +3326,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3150,6 +3343,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3167,6 +3361,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3183,6 +3378,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3200,6 +3396,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3216,6 +3413,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3232,6 +3430,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
     },
@@ -3248,6 +3447,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3265,6 +3465,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3282,6 +3483,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3299,6 +3501,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3316,6 +3519,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3333,6 +3537,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3350,6 +3555,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3367,6 +3573,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3385,6 +3592,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3402,6 +3610,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3419,6 +3628,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3436,6 +3646,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: false,
+    product_available: false,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3453,6 +3664,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3470,6 +3682,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3487,6 +3700,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: false,
+    product_available: false,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3505,6 +3719,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3523,6 +3738,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: false,
+    product_available: false,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3541,6 +3757,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3559,6 +3776,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3577,6 +3795,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3594,6 +3813,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3611,6 +3831,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3628,6 +3849,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3646,6 +3868,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3664,6 +3887,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3681,6 +3905,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3698,6 +3923,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: false,
+    product_available: false,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3716,6 +3942,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3733,6 +3960,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3751,6 +3979,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
@@ -3769,6 +3998,7 @@ vndk_prebuilt_shared {
     target_arch: "arm",
     binder32bit: true,
     vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
