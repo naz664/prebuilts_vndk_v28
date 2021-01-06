@@ -1979,10 +1979,11 @@ vndk_prebuilt_shared {
     name: "libgui",
     version: "28",
     target_arch: "arm",
-    vendor_available: false,
-    product_available: false,
+    vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
+        private: true,
     },
     arch: {
         arm: {
@@ -3434,11 +3435,12 @@ vndk_prebuilt_shared {
     name: "libbacktrace",
     version: "28",
     target_arch: "arm",
-    vendor_available: false,
-    product_available: false,
+    vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
+        private: true,
     },
     arch: {
         arm: {
@@ -3485,11 +3487,12 @@ vndk_prebuilt_shared {
     name: "libblas",
     version: "28",
     target_arch: "arm",
-    vendor_available: false,
-    product_available: false,
+    vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
+        private: true,
     },
     notice: ":vndk-v28-libblas.so-notice",
     arch: {
@@ -3521,11 +3524,12 @@ vndk_prebuilt_shared {
     name: "libcompiler_rt",
     version: "28",
     target_arch: "arm",
-    vendor_available: false,
-    product_available: false,
+    vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
+        private: true,
     },
     notice: ":vndk-v28-libcompiler_rt.so-notice",
     arch: {
@@ -3696,11 +3700,12 @@ vndk_prebuilt_shared {
     name: "libunwind",
     version: "28",
     target_arch: "arm",
-    vendor_available: false,
-    product_available: false,
+    vendor_available: true,
+    product_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
+        private: true,
     },
     notice: ":vndk-v28-libunwind.so-notice",
     arch: {
